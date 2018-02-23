@@ -1,0 +1,15 @@
+{
+  "name": "sen",
+  "version": "1.0.0",
+  "description": "Project folder for Software Engineering",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w -pretty",
+    "exec": "node build/src/lesson_three.js"
+  },
+  "author": "M. de Klein (0906393)",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.7.1"
+  }
+}
