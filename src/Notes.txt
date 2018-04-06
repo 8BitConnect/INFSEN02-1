@@ -1,0 +1,8 @@
+Definitions:
+    Composition -> Given two entities of the same sort, we can compose them into a new one. 
+    Objects being flexible and having no structure, can be combined together into more of the same, 
+    whereas solid objects cannot. Abstract concepts such as the ones we manipulate in the context of programming, 
+    on the other hand, often offer us the possibility to combine.
+
+    Pure functions -> Functions in which the output only depends on the input are called pure, 
+    and enjoy the property of referential transparency.

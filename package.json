@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc -w -pretty",
-    "exec": "node build/lesson_five.js"
+    "exec": "node build/pq_one.js"
   },
   "author": "M. de Klein (0906393)",
   "license": "ISC",
